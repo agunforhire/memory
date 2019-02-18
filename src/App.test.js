@@ -7,3 +7,5 @@ it('renders without crashing', () => {
   ReactDOM.render(<App />, div);
   ReactDOM.unmountComponentAtNode(div);
 });
+
+// "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0017/9579/brand.gif?itok=0GMEdPZR"
